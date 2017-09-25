@@ -16,7 +16,7 @@
 require_once 'connection.php';
 session_start();
 
-//VIEW SUPPLIERS & GOODS
+//VIEW SUPPLIERS & GOODS f
 echo "<h2>View Goods</h2>";
 echo "<table>";
 echo"<tr>
