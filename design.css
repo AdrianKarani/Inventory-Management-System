@@ -1,0 +1,66 @@
+a {
+    text-decoration: none;
+}
+
+nav {
+    margin: 16px 0;
+}
+
+li {
+    display: inline;
+}
+
+.nav-button {
+    background: #83b9f2;
+    color: white;
+    border: solid 1px #242325;
+    padding: 8px 16px;
+    border-radius: 2px;
+    margin: 4px;
+    transition: all .2s;
+}
+
+.nav-button:hover {
+    cursor: pointer;
+    border: solid 1px #242325;
+    background: none;
+    color: #242325;
+}
+
+.button {
+    border: solid 1px #4281A4;
+    background-color: #4281A4;
+    padding: 8px 16px;
+    border-radius: 2px;
+    margin: 4px;
+    color: white;
+    transition: all .2s;
+}
+
+.button:hover {
+    cursor: pointer;
+    border: solid 1px #4281A4;
+    background: none;
+    color: #4281A4;
+}
+
+.edit-link, .edit-link:visited {
+    color: #4281A4;
+}
+
+table, tr, th, td {
+    padding: 8px;
+}
+
+tr th {
+    background-color: #f0f0f0;
+}
+
+select{
+    border: solid 1px black;
+    padding: inherit;
+}
+
+li {
+    display: inline;
+}
